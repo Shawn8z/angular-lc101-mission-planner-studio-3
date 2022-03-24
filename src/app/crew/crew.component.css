@@ -24,3 +24,8 @@ h3 {
 .selected {
     color:rgb(35, 192, 140);
 }
+
+.bonus {
+    text-align: center;
+    font-size: 15px;
+}
